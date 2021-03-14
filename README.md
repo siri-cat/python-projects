@@ -1,7 +1,7 @@
 # python-projects
 Building a Python Project Daily
 
-This undertaking is inspired by this list of 42 Python Projects to build while trying to master the language in 42 days.
+This undertaking is inspired by [this list](https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/#4_Dice_Rolling_Simulator) of 42 Python Projects to build while trying to master the language in 42 days.
 
 
 Python Project Ideas |Table of Contents
