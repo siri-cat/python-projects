@@ -3,9 +3,9 @@ Building a Python Project Daily
 
 This undertaking is inspired by this list of 42 Python Projects to build while trying to master the language in 42 days.
 
-Table of Contents
 
-    Python Project Ideas
+Python Project Ideas |Table of Contents
+
     Python Project Ideas: Beginners Level
         1. Mad Libs Generator
         2. Number Guessing
