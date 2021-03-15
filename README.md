@@ -51,3 +51,30 @@ Python Project Ideas |Table of Contents
         40. Regex Query Tool
         41. Instagram Photo Downloader
         42. Quiz Application
+
+More fun projects to build - List from GeeksbyGeeks
+
+Applications and Projects
+
+    Python | Program to crawl a web page and get most frequent words
+    Facebook login using python
+    FB Chatting through python
+    C/C++ code formating tool
+    Find Live running status and PNR of any train using Railway API
+    Fetching top news using News API
+    Fetching text from Wikipedia’s Infobox in Python
+    Get emotions of images using Microsoft emotion API in Python
+    Website blocker
+    Send SMS updates to mobile phone using python
+    Python Desktop News Notifier in 20 lines
+    Morse Code Translator In Python
+    Performing Google Search using Python code
+    Reading and generating qr code
+    Birthday reminder application in python
+    Program to display Astrological sign or Zodiac sign for given date of birth
+    Track bird migration
+    News notifier
+    whatsapp using python
+    Python | Automating Happy Birthday post on Facebook using Selenium
+    Design a Keylogger in Python
+    Python | Implementation of Movie Recommender System
